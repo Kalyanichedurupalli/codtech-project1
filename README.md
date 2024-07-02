@@ -10,6 +10,13 @@ Duration: JULY TO AUGUST
 OVERVIEW OF THE PROJECT
 PROJECT:LINEAR REGRESSION ON HOUSING PRICES
 
+OUTPUT: Mean Squared Error: 0.6589108649336336
+        R-squared: 0.49717158850807075
+![image](https://github.com/Kalyanichedurupalli/codtech-project1/assets/173444613/1b6efed0-4f43-4ef1-8424-5143c55f4a0c)
+![image](https://github.com/Kalyanichedurupalli/codtech-project1/assets/173444613/d34d966a-0c81-4c9a-b8d2-519b912b97fb)
+
+
+        
 OBJECTIVE
 The objective of this task is to implement a linear regression model to predict housing prices based on features such as square footage, number of bedrooms, and location. The goal is to use a dataset like the Boston Housing dataset (or a suitable alternative like the California Housing dataset) for training and evaluating the model.
 
